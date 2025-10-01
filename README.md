@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey there, I'm maul0x 👋
 
-<!--
-**maul0x/maul0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain developer focused on building secure and efficient smart contracts with a passion for DeFi and cross-chain solutions.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Smart Contract Development**
+- Solidity with Foundry for testing and deployment
+- OpenZeppelin standards for secure contract patterns
+- Cross-chain transaction implementations
+
+**Full-Stack Development**
+- JavaScript/TypeScript for application logic
+- Next.js for modern web applications
+- Wagmi for Ethereum interactions
+- Node.js for backend services
+
+## 🚀 Featured Projects
+
+### [crosschain-transactions](https://github.com/maul0x/crosschain-transactions)
+Building cross-chain transaction infrastructure to enable seamless asset transfers across different blockchain networks.
+
+### [create-your-meme](https://github.com/maul0x/create-your-meme)
+Smart contract implementation for meme token creation on the blockchain.
+
+## 🌱 Currently Exploring
+
+- Advanced DeFi protocols (Aave ecosystem)
+- Token wrapper implementations
+- Cross-chain messaging and interoperability
+- Full-stack dApp development
+
+## 📫 Let's Connect
+
+Building the decentralized future, one block at a time. Open to collaborations on interesting blockchain projects!
+
+---
+
+💡 *"Code is law, but good code is better law"*
