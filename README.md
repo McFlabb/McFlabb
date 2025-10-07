@@ -1,6 +1,6 @@
-# Hey there, I'm maul0x 👋
+# McFlabb 👋
 
-Blockchain developer focused on building secure and efficient smart contracts with a passion for DeFi and cross-chain solutions.
+Learning Blockchain development, focused on building secure and efficient smart contracts with a passion for DeFi and cross-chain solutions.
 
 ## 🔧 Tech Stack
 
@@ -14,14 +14,6 @@ Blockchain developer focused on building secure and efficient smart contracts wi
 - Next.js for modern web applications
 - Wagmi for Ethereum interactions
 - Node.js for backend services
-
-## 🚀 Featured Projects
-
-### [crosschain-transactions](https://github.com/maul0x/crosschain-transactions)
-Building cross-chain transaction infrastructure to enable seamless asset transfers across different blockchain networks.
-
-### [create-your-meme](https://github.com/maul0x/create-your-meme)
-Smart contract implementation for meme token creation on the blockchain.
 
 ## 🌱 Currently Exploring
 
