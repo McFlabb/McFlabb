@@ -1,4 +1,4 @@
-# McFlabb 👋
+# @McFlabb 👋
 
 Learning Blockchain development, focused on building secure and efficient smart contracts with a passion for DeFi and cross-chain solutions.
 
